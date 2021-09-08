@@ -45,7 +45,7 @@ export function getActionNameFromLine(line: string) {
         return;
     }
 
-    return matches[2];
+    return matches[2].replace(/(Async$)/, '');
 }
 
 export function isController(controllerPath: string) {
