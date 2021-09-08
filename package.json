@@ -1,5 +1,5 @@
 {
-    "name": "oliver.asp-net-core-switcher",
+    "name": "asp-net-core-switcher",
     "displayName": "ASP.NET Core Switcher",
     "description": "Quickly switch between views, controllers, pages, page models and Blazor components in ASP.NET Core using keybindings, context menu or command palette.",
     "publisher": "fragcys",
