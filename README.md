@@ -1,3 +1,5 @@
+Customized version of https://github.com/AdrianWilczynski/AspNetCoreSwitcher
+
 # ASP.NET Core Switcher
 
 ## Razor Pages
@@ -31,3 +33,7 @@ Switch between Component (`.razor`) and its CodeBehind (`.razor.cs`) using:
 - Keybindings: `alt + o`
 - Editor context menu: `Go to Component`, `Go to CodeBehind`
 - Command palette: `Go to Component`, `Go to CodeBehind`
+
+## Async endpoint naming is ignored (new)
+
+As ASP.NET Core ignores 'Async' naming of endpoints I thought this extension needed to reflect this, hence why I added this minor change to the original extension.
