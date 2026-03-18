@@ -203,7 +203,7 @@
     },
     "devDependencies": {
         "@types/chai": "^4.1.7",
-        "@types/mocha": "^2.2.42",
+        "@types/mocha": "^10.0.10",
         "@types/node": "^10.12.21",
         "chai": "^4.2.0",
         "tslint": "^5.12.1",
